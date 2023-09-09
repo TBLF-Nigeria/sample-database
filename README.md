@@ -1,5 +1,5 @@
 # Address Database (RIvers State Sample)
-This is a sample of 2500 buildings in Rivers state, Nigeria. You can visualize the data on either an [excel file](https://docs.google.com/spreadsheets/d/1ZMwKy-0u4b0o4S7rZWVz3gEvEnSu16A71gcR4E8flME/edit?usp=sharing) or a [web map](https://controleo.github.io/rvb/) using the embedded links. 
+This is a sample of 2500 buildings in Rivers state, Nigeria. You can visualize the data on either an [excel file](https://docs.google.com/spreadsheets/d/1ZMwKy-0u4b0o4S7rZWVz3gEvEnSu16A71gcR4E8flME/edit?usp=sharing) or a [web map](https://tblf-nigeria.github.io/sample-database/) using the embedded links. 
 
 ### Status: In Progress
 
